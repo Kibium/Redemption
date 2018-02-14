@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4a67a9bbdd346284ab0af42008ae125d
+timeCreated: 1518452353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bar_1
+    100002: Bar_2
+    100004: Bar_3
+    100006: Bar_4
+    100008: barHolder_1
+    100010: barHolder_1_001
+    100012: barHolder_2
+    100014: barHolder_2_001
+    100016: Camera
+    100018: fiberCover
+    100020: Lamp
+    100022: Link_1_2
+    100024: Link_1_2_001
+    100026: Link_1_2_002
+    100028: Link_1_2_003
+    100030: //RootNode
+    400000: Bar_1
+    400002: Bar_2
+    400004: Bar_3
+    400006: Bar_4
+    400008: barHolder_1
+    400010: barHolder_1_001
+    400012: barHolder_2
+    400014: barHolder_2_001
+    400016: Camera
+    400018: fiberCover
+    400020: Lamp
+    400022: Link_1_2
+    400024: Link_1_2_001
+    400026: Link_1_2_002
+    400028: Link_1_2_003
+    400030: //RootNode
+    2000000: Camera
+    2300000: Bar_1
+    2300002: Bar_2
+    2300004: Bar_3
+    2300006: Bar_4
+    2300008: barHolder_1
+    2300010: barHolder_1_001
+    2300012: barHolder_2
+    2300014: barHolder_2_001
+    2300016: fiberCover
+    2300018: Link_1_2
+    2300020: Link_1_2_001
+    2300022: Link_1_2_002
+    2300024: Link_1_2_003
+    3300000: Bar_1
+    3300002: Bar_2
+    3300004: Bar_3
+    3300006: Bar_4
+    3300008: barHolder_1
+    3300010: barHolder_1_001
+    3300012: barHolder_2
+    3300014: barHolder_2_001
+    3300016: fiberCover
+    3300018: Link_1_2
+    3300020: Link_1_2_001
+    3300022: Link_1_2_002
+    3300024: Link_1_2_003
+    4300000: barHolder_1_001
+    4300002: barHolder_2_001
+    4300004: barHolder_2
+    4300006: Link_1_2_003
+    4300008: Link_1_2_002
+    4300010: Link_1_2_001
+    4300012: Bar_3
+    4300014: Bar_4
+    4300016: Bar_2
+    4300018: barHolder_1
+    4300020: Link_1_2
+    4300022: Bar_1
+    4300024: fiberCover
+    7400000: Default Take
+    9500000: //RootNode
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 2365cd572f3c7ee43bafbe3b05358f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 4ed4c09266574464e98f4197fd05678d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
