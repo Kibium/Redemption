@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - containerItem
+  - Curacion
+  - Bala
+  - Undefined
+  - linterna
+  - portamagatzem
+  - zombie
   layers:
   - Default
   - TransparentFX
